@@ -1,0 +1,76 @@
+<style>
+  #banner-demo {
+    max-width: 100%;
+    background: url(/assets/img/gh_bg.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin: 0 auto;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    color: #84858b;
+    margin: 0px 0px 20px 0px;
+  }
+
+  .banner-text {
+    padding: 20px 20px 20px 20px;
+    font-size: 18px;
+    line-height: 1.2;
+  }
+
+  .app-icon {
+    max-width: 30%;
+    -webkit-filter: drop-shadow(5px 5px 5px #f4f3f1);
+    filter: drop-shadow(5px 5px 5px #f4f3f1);
+    padding: 0px 0px 10px 0px;
+  }
+
+  h1 {
+    font-weight: 900;
+    color: #242631;
+    font-size: 32;
+  }
+
+  p {
+    padding: 0px 0px 5px 0px;
+  }
+
+  .download-buttons {
+    padding: 0px 0px 0px 0px;
+  }
+
+  .download-buttons img {
+    max-height: 50px;
+    display: inline;
+    padding: 0px 10px 0px 0px;
+    -webkit-filter: drop-shadow(5px 5px 5px #f4f3f1);
+    filter: drop-shadow(5px 5px 5px #f4f3f1);
+  }
+</style>
+<div id="banner-demo">
+  <div class="banner-text">
+    <img class="app-icon" src="/assets/img/gh_icon.png" />
+    <h1>
+      Download &amp; Play <br />
+      the Demo
+    </h1>
+    <p>
+      Experience 2 days of romance <br />
+      and friendship at Haraya City.
+    </p>
+    <div class="download-buttons">
+      {% if site.show_playstore %}
+      <a
+        href="https://play.google.com/store/apps/details?id=com.MatchaaStudio.GoldenHour&amp;hl=en_US"
+        ><img src="/assets/img/google_play.png"
+      /></a>
+      {% endif %} {% if site.show_itunes %}
+      <a
+        href="https://itunes.apple.com/us/app/golden-hour-otome-romance/id1381068484?mt=8"
+        ><img src="/assets/img/itunes.png"
+      /></a>
+      {% endif %}
+    </div>
+  </div>
+</div>

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Zjan Turla
 ---
 
 # Game Development

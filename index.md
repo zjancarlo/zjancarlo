@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% include change_title.html %}
-
 # Game Development
 
 Developer | Matchaa Studio | April 2017 - Present

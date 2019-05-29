@@ -3,13 +3,13 @@ layout: default
 title: Zjan Turla
 ---
 
-# Game Development
+## Game Development
 
 Developer | Matchaa Studio | April 2017 - Present
 
 My experience in game development primarily covers work with the Unity engine with working knowledge of CoronoSDK, Love2D,and the SFML library.
 
-## Golden Hour
+### Golden Hour
 
 ![100% Funded!](/assets/img/gh_funded.jpg)
 
@@ -17,7 +17,7 @@ Part of a small team developing a game in Unity for mobile devices. Mainly handl
 
 {% include gh_download_banner.html %}
 
-## Architecture Overview
+### Architecture Overview
 
 Golden Hour uses the Unity game engine and is coded in C# with additional scripting via a Domain Specific Language built on top of the [Yarn Language](https://github.com/infiniteammoinc/Yarn).
 
@@ -25,23 +25,25 @@ A detailed breakdown of some of Golden Hour's major components can be found [her
 
 ### [Golden Hour System Architecture](/assets/Golden Hour System Architecture.pdf)
 
-## Tools Developed
+### Tools Developed
 
 Quick overview of some tools created to aid in the development of Golden Hour.
 
 These tools were primarily developed to allow writers and artists to create assets such as scripts and sprites without needing technical knowledge.
 
-### Yarn to Markdown
+Also worked on the Unity Editor to provide tools and utilities to hasten development workflow.
+
+#### Yarn to Markdown
 
 A Python script that converts the scripts for Golden Hour into a readable Markdown document for easy comparison and proofreading. Used as a git hook to ensure script correctness and automatically update the repository's copy of the equivalent Markdown document.
 
-### Golden Hour Script Linter
+#### Golden Hour Script Linter
 
 A linter created in Python that renders the game's narrative state diagram and checks the writer produced scripts for errors. Also creates a list of assets referenced that still need to be created. Used as a git hook to ensure correctness and prevent errors from being committed.
 
 ---
 
-# Software Quality Engineering
+## Software Quality Engineering
 
 Quality Engineer | Kalibrr | August 2017 - Present
 
@@ -74,7 +76,7 @@ As first QA hire, established manual testing processes and workflows for ensurin
 
 ---
 
-# Other Experiences
+## Other Experiences
 
 Software Developer | WiFi Nation Philippines, Inc. | May 2014 - Sept 2014
 
@@ -88,6 +90,28 @@ Went through their developer bootcamp which entailed creating web apps using Dja
 
 ---
 
-# Education
+## Projects
+
+### Modeling the Expansion of Co-Authorship Networks in Philippine Congress
+
+A study exploring the expansion of co-authorship networks in Philippine Congress through small-world network simulations.
+
+### [UPD CRS Crawler](https://github.com/zjancarlo/crs-crawler)
+
+Generates a CSV with course name, instructor, location, schedule, and estimated enrolled students. Useful for scheduling promotional room-to-room activities.
+
+---
+
+## Publications
+
+### [Sentiment Analysis of Philippine National Elections 2016 Twitter Data](https://www.worldscientific.com/doi/abs/10.1142/9789813234079_0015)
+
+Dec 2017 | Proceedings of Workshop on Computation: Theory and Practice WCTP2016
+
+Sentiment analysis of a mixed-language corpus extracted from Twitter. Proposed a framework for analyzing sentiment beyond a negative-neutral-positive scale with particular applications in expanding the vocabulary of news reporting on social media analytics.
+
+---
+
+## Education
 
 Bachelor of Science in Computer Science | University of the Philippines Diliman | 2011 - 2016

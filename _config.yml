@@ -1,7 +1,7 @@
 title: Zjan Turla
 sidebar_title: Zjan Turla
 description: Hi! I'm Zjan, Software Developer, Software Quality Engineer, and Game Developer.
-sidebar_description: Software Developer <br/> Game Developer <br/> Software Quality Engineer <br/> Process Engineer
+sidebar_description: Software Engineer currently working on building automated test solutions and hobbyist game developer working on a successfully Kickstarted game.</br>Other studies and works focus on the intersection of technology and social sciences. 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
@@ -12,3 +12,5 @@ show_downloads: false
 show_playstore: true
 show_itunes: false
 theme: jekyll-theme-minimal
+email: zjancarlo@gmail.com
+linkedin: https://linkedin.com/in/zjan-carlo-turla-358b28164

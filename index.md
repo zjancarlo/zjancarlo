@@ -3,6 +3,56 @@ layout: default
 title: Zjan Turla
 ---
 
+## Site Reliability Engineering
+
+Site Reliability Engineer | Kalibrr | September 2019 - Present
+
+My responsibilities and work revolve around the development and upkeep of a platform infrastructure built primarily on Kubernetes and the Google Cloud Platform.
+
+Some of the things I've worked on:
+
+- Configuration of a **Kubernetes** cluster for reduced costs and increased availability. Some examples include setting up improved autoscaling metrics for services and automatic failover for a **replicated database cluster**.
+- Development and maintenance of a minimal testing framework for site uptime to aid in the fulfillment of site SLAs
+- Configuration of **Jenkins** pipelines for increased developer and tester productivity
+- Development of tools for increased code quality and developer productivity
+- Development of a custom **Redis** Kubernetes operator to ensure stability and integrity of Redis instances
+
+
+---
+
+## Software Quality Engineering
+
+Quality Engineer | Kalibrr | August 2017 - Present
+
+Worked as part of a team implementing a range of automated testing tools and processes centered around a BDD test strategy.
+
+Responsibilities and accomplishments include:
+
+- Developing a blackbox component testing framework using **Typescript**, **Mocha**, and **Chai** with **proxy** and **stub server integrations** for mocking and testing third party components
+- Interfacing with feature developers and product/design team to write feature specifications with **Gherkin** and **Swagger**
+- Writing backend component tests with **Behave** for a **Python** backend
+- Writing end-to-end tests with **Protractor** and **Cucumber**
+- Exploring test strategies for monolithic applications and **microservices**
+- Implementing and enforcing **BDD** test and development practices by designing new
+  workflows
+- Developing tools to aid in development and testing
+
+Other tools and test strategies used include Pact for Contract Testing, Dredd for API tests, and Gatling for performance tests.
+
+Quality Assurance Engineer | Kalibrr | January 2017 - July 2017
+
+As first QA hire, established manual testing processes and workflows for ensuring software quality and adherence to requirements.
+
+- Transitioned from weekly to daily deployments with the help of QA processes
+- Anonymized and prepared testing replica for use by third-party testers
+- Enhanced manual testing workflow by using Selenium and interfacing directly with the
+  application backend
+- Worked with product team and developers to convert designs and requirements into
+  testable feature specifications
+- Enforced a manual testing quality gate for new features and bug fixes
+
+---
+
 ## Game Development
 
 Developer | Matchaa Studio | April 2017 - Present
@@ -40,39 +90,6 @@ A Python script that converts the scripts for Golden Hour into a readable Markdo
 #### Golden Hour Script Linter
 
 A linter created in Python that renders the game's narrative state diagram and checks the writer produced scripts for errors. Also creates a list of assets referenced that still need to be created. Used as a git hook to ensure correctness and prevent errors from being committed.
-
----
-
-## Software Quality Engineering
-
-Quality Engineer | Kalibrr | August 2017 - Present
-
-Working as part of a team implementing a range of automated testing tools and processes centered around a BDD test strategy.
-
-Responsibilities and accomplishments include:
-
-- Developing a blackbox component testing framework using **Typescript**, **Mocha**, and **Chai** with **proxy** and **stub server integrations** for mocking and testing third party components
-- Interfacing with feature developers and product/design team to write feature specifications with **Gherkin** and **Swagger**
-- Writing backend component tests with **Behave** for a **Python** backend
-- Writing end-to-end tests with **Protractor** and **Cucumber**
-- Exploring test strategies for monolithic applications and **microservices**
-- Implementing and enforcing **BDD** test and development practices by designing new
-  workflows
-- Developing tools to aid in development and testing
-
-Other tools and test strategies used include Pact for Contract Testing, Dredd for API tests, and Gatling for performance tests.
-
-Quality Assurance Engineer | Kalibrr | January 2017 - July 2017
-
-As first QA hire, established manual testing processes and workflows for ensuring software quality and adherence to requirements.
-
-- Transitioned from weekly to daily deployments with the help of QA processes
-- Anonymized and prepared testing replica for use by third-party testers
-- Enhanced manual testing workflow by using Selenium and interfacing directly with the
-  application backend
-- Worked with product team and developers to convert designs and requirements into
-  testable feature specifications
-- Enforced a manual testing quality gate for new features and bug fixes
 
 ---
 

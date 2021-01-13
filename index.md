@@ -5,9 +5,22 @@ title: Zjan Turla
 
 ## Site Reliability Engineering
 
-Site Reliability Engineer | Kalibrr | September 2019 - Present
+DevOps Consultant | June 2020 - Present
 
-My responsibilities and work revolve around the development and upkeep of a platform infrastructure built primarily on Kubernetes and the Google Cloud Platform.
+My primary responsibility and work revolves around providing developer support for tech industry clients from development and maintenance to sunsetting.
+
+- Supported sunsetting operations of an **Apache Mesos** based PaaS. Wrote custom scripts and tools for support ticket alerting, data processing, and automated vulnerability scanning. Also handled application and deployment debugging along with Mesos agent maintenance.
+- Handled upkeep of an **Apache Spark** on Mesos platform through system administration and rotational 24/7 on-call support.
+- Co-led onboarding of our support team on a **Nomad** based platform. Developed onboarding study plan and led technology training sessions. Directly interfaced with platform users in resolving issues from build to deployment. Also handled development support through platform related upgrades.
+
+Other accomplishments include:
+
+- Created pipelines to support deployment of a web application both on local environments and on **Amazon EKS** using **Gitlab CI**. Used Helm and created custom templating for the infrastructure code while the application used a number of microservices using Vue.JS, Flask, Python, Django, and PostgreSQL served behind an **NGINX** reverse proxy.
+- Created a **Helm** starter template to help users, especially those with little Kubernetes knowledge, to migrate their applications to Kubernetes.
+
+Site Reliability Engineer | Kalibrr | September 2019 - May 2020
+
+My responsibilities and work revolved around the development and upkeep of a platform infrastructure built primarily on Kubernetes and the Google Cloud Platform.
 
 Some of the things I've worked on:
 

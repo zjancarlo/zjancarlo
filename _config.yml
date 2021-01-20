@@ -12,7 +12,7 @@ plugins:
   - jekyll-redirect-from
 show_downloads: false
 show_playstore: true
-show_itunes: false
+show_itunes: true
 theme: jekyll-theme-minimal
 email: zjancarlo@gmail.com
 linkedin: https://linkedin.com/in/zjan-carlo-turla-358b28164

@@ -70,7 +70,7 @@ As first QA hire, established manual testing processes and workflows for ensurin
 
 Developer | Matchaa Studio | April 2017 - Present
 
-My experience in game development primarily covers work with the Unity engine with working knowledge of CoronoSDK, Love2D,and the SFML library.
+My experience in game development primarily covers work with the Unity engine with working knowledge of CoronaSDK, Love2D,and the SFML library.
 
 ### Golden Hour
 
